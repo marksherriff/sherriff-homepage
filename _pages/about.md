@@ -14,9 +14,8 @@ I am a Professor of Computer Science (Academic General Faculty) in the [Departme
 
 The best way to reach me is via email - [sherriff@virginia.edu](mailto:sherriff@virginia.edu).  For questions specifically about the Bachelor of Science degree program, you can email [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu).  Phone calls will almost certainly go to voice mail, so a follow-up email is basically required.
 
-__Physical Address:__ 85 Engineer's Way, Box 400740, Charlottesville, VA 22904
-
-__Office:__ Rice Hall 400
+__Physical Address:__ 85 Engineer's Way, Box 400740, Charlottesville, VA 22904     
+__Office:__ Rice Hall 400     
 
 ## Questions about CS at UVA?
 
