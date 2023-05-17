@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-_Currently Under Construction - Transferring from Old Website_
+_Courses ordered by most recently taught._
 
 {% include base_path %}
 
