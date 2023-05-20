@@ -1,6 +1,239 @@
 - title: "A Systematic Literature Review of Empiricism and Norms of Reporting in Computing Education Research Literature"
-  date: 2022-03-01
+  authors: "Heckman, S., Carver, J., Sherriff, M., and Al-Zubidy, A."
+  date: 2022-04-01
   venue: 'ACM Transactions on Computing Education'
+  issue: 'Vol. 22, 1, Article 3 (March 2022), 46 pages.'
   venueshort: 'ACM TOCE'
-  paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+  paperurl: '/files/TOCE-Sherriff.pdf'
+  doi: 'https://doi.org/10.1145/3470652'
   citation: 'Heckman, S., Carver, J., Sherriff, M., and Al-Zubidy, A. "A Systematic Literature Review of Empiricism and Norms of Reporting in Computing Education Research Literature." ACM Transactions on Computing Education. Vol. 22, 1, Article 3 (March 2022), 46 pages.'
+
+- title: "Training Computing Educators to Become Computing Education Researchers"
+  authors: "Carver, J., Heckman, S., Sherriff, M."
+  date: 2022-03-02
+  venue: "The 53rd ACM Technical Symposium on Computer Science Education"
+  issue: "Providence, RI, Mar 2-5, 2022"
+  venueshort: "SIGCSE TS" 
+  paperurl: 'https://arxiv.org/pdf/2110.05560.pdf'
+  doi: 'https://doi.org/10.1145/3478431.3499297'
+  citation: 'Carver, J., Heckman, S., Sherriff, M. "Training Computing Educators to Become Computing Education Researchers." The 53rd ACM Technical Symposium on Computer Science Education, Providence, RI, Mar 2-5, 2022.'
+
+- title: 'Engineering a Complete Curriculum Overhaul'
+  authors: 'Tychonievich, L. and Sherriff, M.'
+  date: 2022-03-02
+  venue: 'The 53rd ACM Technical Symposium on Computer Science Education'
+  issue: 'Providence, RI, Mar 2-5, 2022'
+  venueshort: "SIGCSE TS" 
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/New_Curriculum_SIGCSE_TS_2022.pdf'
+  doi: 'https://doi.org/10.1145/3478431.3499287'
+  citation: 'Tychonievich, L. and Sherriff, M. "Engineering a Complete Curriculum Overhaul." The 53rd ACM Technical Symposium on Computer Science Education, Providence, RI, Mar 2-5, 2022.'
+
+- title: 'Achievement Unlocked: Investigating Which Gamification Elements Motivate Students'
+  authors: 'Sherriff, M. and Floryan, M.'
+  date: 2016-06-24
+  venue: 'The 123rd ASEE Annual Conference and Exposition'
+  issue: 'New Orleans, LA, June 24-27, 2016'
+  venueshort: 'ASEE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/ASEE2016-Sherriff.pdf'
+  doi: 'https://doi.org/10.18260/p.26500'
+  citation: 'Sherriff, M. and Floryan, M. "Achievement Unlocked: Investigating Which Gamification Elements Motivate Students." The 123rd ASEE Annual Conference and Exposition, New Orleans, LA, June 24-27, 2016.'
+
+- title: 'A (Updated) Review of Empiricism at the SIGCSE Technical Symposium'
+  authors: 'Al-Zubidy, A., Carver, J., Heckman, S.'
+  date: 2016-03-03
+  venue: 'The 47th ACM Technical Symposium on Computer Science Education'
+  issue: 'Memphis, TN, Mar 3-6, 2016'
+  venueshort: "SIGCSE TS" 
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/2016_SIGCSE.pdf'
+  doi: 'https://doi.org/10.1145/2839509.2844601'
+  citation: 'Al-Zubidy, A., Carver, J., Heckman, S., Sherriff, M. "A (Updated) Review of Empiricism at the SIGCSE Technical Symposium." The 47th ACM Technical Symposium on Computer Science Education, Memphis, TN, Mar 3-6, 2016.'
+
+- title: "A Service Learning Capstone Practicum"
+  authors: 'Bloomfield, A., Sherriff, M., and Williams, K.'
+  date: 2014-03-05
+  venue: 'The 45th ACM Technical Symposium on Computer Science Education'
+  issue: 'Atlanta, GA, Mar 5-8, 2014'
+  venueshort: "SIGCSE TS" 
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/SIGCSE-2014.pdf'
+  doi: 'https://doi.org/10.1145/2538862.2538974'
+  citation: 'Bloomfield, A., Sherriff, M., and Williams, K. "A Service Learning Capstone Practicum." The 45th ACM Technical Symposium on Computer Science Education, Atlanta, GA, Mar 5-8, 2014.'
+
+- title: "Inform, Experience, Implement - Teaching an Intensive High School Summer Course"
+  authors: 'Layer, R., Sherriff, M., and Tychonievich, L.'
+  date: 2012-10-03
+  venue: 'The 42nd Annual Frontiers in Education (FIE) Conference'
+  issue: 'Seattle, WA, Oct 3-6, 2012'
+  venueshort: 'ASEE FIE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/FIE2012-Sherriff.pdf'
+  doi: 'https://doi.org/10.1109/FIE.2012.6462268'
+  citation: 'Layer, R., Sherriff, M., and Tychonievich, L. "Inform, Experience, Implement - Teaching an Intensive High School Summer Course." The 42nd Annual Frontiers in Education (FIE) Conference, Seattle, WA, Oct 3-6, 2012.'
+
+- title: "Teaching Web Services and Service-Oriented Architecture using Mobile Platforms"
+  authors: 'Sherriff, M.'
+  date: 2010-10-27
+  venue: 'The 40th Annual Frontiers in Education (FIE) Conference'
+  issue: 'Washington, DC, Oct 27-30, 2010'
+  venueshort: 'ASEE FIE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/FIE2010-Sherriff.pdf'
+  doi: 'https://doi.org/10.1109/FIE.2010.5673561'
+  citation: 'Sherriff, M. "Teaching Web Services and Service-Oriented Architecture using Mobile Platforms." The 40th Annual Frontiers in Education (FIE) Conference, Washington, DC, Oct 27-30, 2010.'
+
+- title: "Role of Larger Software Artifacts in Introductory Computer Science Courses"
+  authors: 'Krogius, O., Horton, T., and Sherriff, M.'
+  date: 2010-10-27
+  venue: "The 40th Annual Frontiers in Education (FIE) Conference"
+  issue: 'Washington, DC, Oct 27-30, 2010'
+  venueshort: 'ASEE FIE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/FIE2010-Krogius.pdf'
+  doi: 'https://doi.org/10.1109/FIE.2010.5673385'
+  citation: 'Krogius, O., Horton, T., and Sherriff, M. "Role of Larger Software Artifacts in Introductory Computer Science Courses." The 40th Annual Frontiers in Education (FIE) Conference, Washington, DC, Oct 27-30, 2010.'
+
+- title: 'Using LEGO MINDSTORMS NXT and LEJOS in an Advanced Software Engineering Course'
+  authors: "Lew, M., Horton, T., and Sherriff, M."
+  date: 2010-03-09
+  venue: 'The 23rd Annual IEEE-CS Conference on Software Engineering Education and Training'
+  issue: 'Pittsburg, PA, Mar 9-12, 2010'
+  venueshort: 'CSEE&T'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/CSEET2010-Lew.pdf'
+  doi: 'https://doi.org/10.1109/CSEET.2010.31'
+  citation: 'Lew, M., Horton, T., and Sherriff, M. "Using LEGO MINDSTORMS NXT and LEJOS in an Advanced Software Engineering Course." The 23rd Annual IEEE-CS Conference on Software Engineering Education and Training, Pittsburg, PA, Mar 9-12, 2010.'
+
+- title: "Compatibility of Partnered Students in Computer Science Education"
+  authors: 'Sennett, J. and Sherriff, M.'
+  date: 2010-03-10
+  venue: 'The 41st ACM Technical Symposium on Computer Science Education'
+  issue: 'Milwaukee, WI, Mar 10-13, 2010'
+  venueshort: 'SIGCSE TS'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/SIGCSE2010-Sennett.pdf'
+  doi: 'https://doi.org/10.1145/1734263.1734347'
+  citation: 'Sennett, J. and Sherriff, M. "Compatibility of Partnered Students in Computer Science Education." The 41st ACM Technical Symposium on Computer Science Education, Milwaukee, WI, Mar 10-13, 2010.'
+
+- title: 'Automated Fix Generator for SQL Injection Attacks'
+  authors: 'Dysart, F. and Sherriff, M.'
+  date: 2008-11-11
+  venue: 'The 19th IEEE International Symposium on Software Reliability Engineering'
+  issue: 'Redmond/Seattle, WA, Nov 11-14, 2008'
+  venueshort: 'ISSRE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/ISSRE2008.pdf'
+  doi: 'https://doi.org/10.1109/ISSRE.2008.44'
+  citation: 'Dysart, F. and Sherriff, M. "Automated Fix Generator for SQL Injection Attacks." Student Paper. The 19th IEEE International Symposium on Software Reliability Engineering, Redmond/Seattle, WA, Nov 11-14, 2008.'
+
+- title: 'Empirical Software Change Impact Analysis using Singular Value Decomposition'
+  authors: 'Sherriff, M. and Williams, L.'
+  date: 2008-04-09
+  venue: 'International Conference on Software Testing, Verification, and Validation'
+  issue: 'Lillehammer, Norway, April 9-11, 2008'
+  venueshort: 'ICST'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/ICST_Sherriff.pdf'
+  doi: 'https://doi.org/10.1109/ICST.2008.25'
+  citation: 'Sherriff, M. and Williams, L. "Empirical Software Change Impact Analysis using Singular Value Decomposition." International Conference on Software Testing, Verification, and Validation, Lillehammer, Norway, April 9-11, 2008.'
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M., Lake, J. M., and Williams, L. "Prioritization of Regression Tests using Singular Value Decomposition with Empirical Change Records." The 18th IEEE International Symposium on Software Reliability Engineering, Trollhattan, Sweden, Nov 5-9, 2007. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M., Heckman, S. S., Lake, J. M., and Williams, L. "Identifying Fault-Prone Files Using Static Analysis Alerts Through Singular Value Decomposition." 17th Annual International Conference of the IBM Center for Advanced Studies, Richmond Hill, Ontario, Oct 22-25, 2007. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M., Heckman, S. S., Lake, J. M., and Williams, L. "Using Groupings of Static Analysis Alerts to Identify Files Likely to Contain Field Failures." Short Paper. The 6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, Dubrovnik, Croatia, Sept 3-7, 2007. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M. and Williams, L. "DevCOP: A Software Certificate Management System for Eclipse." 17th Annual International Symposium on Software Reliability Engineering, Raleigh, North Carolina, Nov 6-10, 2006. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M. and Williams, L. "A Method for Verification and Validation Certificate Management in Eclipse." Workshop on Software Certificate Management, Long Beach, California, Nov 8, 2005. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M. and Williams, L. "Certification of Code During Development to Provide an Estimate of Defect Density." Fast Abstract. The 16th International Symposium on Software Reliability Engineering, Chicago, Illinois, Nov 8-11, 2005. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M. "Using Verification and Validation Certificates to Estimate Software Defect Density." Doctoral Symposium. Symposium on the Foundations of Software Engineering, Lisbon, Portugal, Sept 6, 2005. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M., Nagappan, N., Williams, L., and Vouk, M. "Early Estimation of Defect Density Using an In-Process Haskell Metrics Model." The First International Workshop on Advances In Model-Based Software Testing, co-located with the International Conference on Software Engineering, St. Louis, MO, May 15-16, 2005. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M. and Williams, L. "Tool Support for Estimating Software Reliability in Haskell Programs." Student Paper. The 15th International Symposium on Software Reliability Engineering, St-Malo, France, Nov 2-5, 2004. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Sherriff, M., Williams, L., and Vouk, M. "Using In-Process Metrics to Predict Defect Density in Haskell Programs." Fast Abstract. The 15th International Symposium on Software Reliability Engineering, St-Malo, France, Nov 2-5, 2004. [PDF ]
+
+- title: 
+  authors: 
+  date: 
+  venue: 
+  issue: 
+  venueshort: 
+  paperurl: 
+  doi: 
+  citation: Burg, J., and Sherriff, M. "Unix Tutorials to Move Students from PC/Windows to Unix." ED-MEDIA 2002 Conference, June 30, 2002.
