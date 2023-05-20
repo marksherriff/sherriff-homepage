@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Keynote at SIGCSE 2022"
+excerpt: "Getting Involved with the SIGCSE Technical Symposium and Education Research<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
