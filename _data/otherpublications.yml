@@ -36,7 +36,7 @@
   venueshort: 'A-MOST'
   paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/AMOST-SNW05.pdf'
   doi: 'https://doi.org/10.1145/1083274.1083285'
-  citation: Sherriff, M., Nagappan, N., Williams, L., and Vouk, M. "Early Estimation of Defect Density Using an In-Process Haskell Metrics Model." The First International Workshop on Advances In Model-Based Software Testing, co-located with the International Conference on Software Engineering, St. Louis, MO, May 15-16, 2005. [PDF ]
+  citation: Sherriff, M., Nagappan, N., Williams, L., and Vouk, M. "Early Estimation of Defect Density Using an In-Process Haskell Metrics Model." The First International Workshop on Advances In Model-Based Software Testing, co-located with the International Conference on Software Engineering, St. Louis, MO, May 15-16, 2005.'
 
 - title: 'Tool Support for Estimating Software Reliability in Haskell Programs'
   authors: 'Sherriff, M. and Williams, L.'
@@ -46,7 +46,7 @@
   venueshort: 'ISSRE'
   paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/ISSREStudentPaper-SW04.pdf'
   doi: '#'
-  citation: 'Sherriff, M. and Williams, L. "Tool Support for Estimating Software Reliability in Haskell Programs." Student Paper. The 15th International Symposium on Software Reliability Engineering, St-Malo, France, Nov 2-5, 2004.''
+  citation: 'Sherriff, M. and Williams, L. "Tool Support for Estimating Software Reliability in Haskell Programs." Student Paper. The 15th International Symposium on Software Reliability Engineering, St-Malo, France, Nov 2-5, 2004.'
 
 - title: 'Using In-Process Metrics to Predict Defect Density in Haskell Programs'
   authors: 'Sherriff, M., Williams, L., and Vouk, M.'
