@@ -31,3 +31,14 @@ table, th, td {
 {% endfor %}
 
 </table>
+
+<h2>Other Publications</h2>
+
+<table style="width:100%" cellpadding="0" border="0">
+{% for paper in site.data.otherpublications %}
+  <tr><td width="120" valign="top">{{ paper.venueshort }}</td>
+  <td><strong>{{ paper.title }}</strong>. {{ paper.authors }} <em>{{ paper.venue }}. {{ paper.issue }}</em><br>
+  <a href="{{ paper.paperul }}">PDF</a> | <a href="{{ paper.doi }}">DOI</a></td></tr>
+{% endfor %}
+
+</table>

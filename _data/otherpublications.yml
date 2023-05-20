@@ -1,0 +1,69 @@
+- title: "A Method for Verification and Validation Certificate Management in Eclipse"
+  authors: 'Sherriff, M. and Williams, L.'
+  date: 2005-11-08
+  venue: 'Workshop on Software Certificate Management'
+  issue: 'Long Beach, California, Nov 8, 2005'
+  venueshort: 'SCM'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/SoftCeMent_Sherriff.pdf'
+  doi: '#'
+  citation: 'Sherriff, M. and Williams, L. "A Method for Verification and Validation Certificate Management in Eclipse." Workshop on Software Certificate Management, Long Beach, California, Nov 8, 2005.'
+
+- title: 'Certification of Code During Development to Provide an Estimate of Defect Density'
+  authors: 'Sherriff, M. and Williams, L.'
+  date: 2005-11-08
+  venue: 'The 16th International Symposium on Software Reliability Engineering'
+  issue: 'Chicago, Illinois, Nov 8-11, 2005'
+  venueshort: 'ISSRE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/ISSRE-FA-SW05.pdf'
+  doi: '#'
+  citation: 'Sherriff, M. and Williams, L. "Certification of Code During Development to Provide an Estimate of Defect Density." Fast Abstract. The 16th International Symposium on Software Reliability Engineering, Chicago, Illinois, Nov 8-11, 2005.'
+
+- title: 'Using Verification and Validation Certificates to Estimate Software Defect Density'
+  authors: 'Sherriff, M.'
+  date: 2005-10-06
+  venue: 'Doctoral Symposium. Symposium on the Foundations of Software Engineering'
+  issue: 'Lisbon, Portugal, Sept 6, 2005'
+  venueshort: 'FSE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/FSE-PhDSymp-Sherriff.pdf'
+  doi: 'https://doi.org/10.1145/1081706.1081768'
+  citation: 'Sherriff, M. "Using Verification and Validation Certificates to Estimate Software Defect Density." Doctoral Symposium. Symposium on the Foundations of Software Engineering, Lisbon, Portugal, Sept 6, 2005.'
+
+- title: 'Early Estimation of Defect Density Using an In-Process Haskell Metrics Model'
+  authors: 'Sherriff, M., Nagappan, N., Williams, L., and Vouk, M.'
+  date: 2005-05-15
+  venue: 'The First International Workshop on Advances In Model-Based Software Testing, co-located with the International Conference on Software Engineering'
+  issue: 'St. Louis, MO, May 15-16, 2005'
+  venueshort: 'A-MOST'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/AMOST-SNW05.pdf'
+  doi: 'https://doi.org/10.1145/1083274.1083285'
+  citation: Sherriff, M., Nagappan, N., Williams, L., and Vouk, M. "Early Estimation of Defect Density Using an In-Process Haskell Metrics Model." The First International Workshop on Advances In Model-Based Software Testing, co-located with the International Conference on Software Engineering, St. Louis, MO, May 15-16, 2005. [PDF ]
+
+- title: 'Tool Support for Estimating Software Reliability in Haskell Programs'
+  authors: 'Sherriff, M. and Williams, L.'
+  date: 2004-11-02
+  venue: 'Student Paper. The 15th International Symposium on Software Reliability Engineering'
+  issue: 'St-Malo, France, Nov 2-5, 2004'
+  venueshort: 'ISSRE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/ISSREStudentPaper-SW04.pdf'
+  doi: '#'
+  citation: 'Sherriff, M. and Williams, L. "Tool Support for Estimating Software Reliability in Haskell Programs." Student Paper. The 15th International Symposium on Software Reliability Engineering, St-Malo, France, Nov 2-5, 2004.''
+
+- title: 'Using In-Process Metrics to Predict Defect Density in Haskell Programs'
+  authors: 'Sherriff, M., Williams, L., and Vouk, M.'
+  date: 'St-Malo, France, Nov 2-5, 2004'
+  venue: 2004-11-02
+  issue: 'Fast Abstract. The 15th International Symposium on Software Reliability Engineering'
+  venueshort: 'ISSRE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/AMOST-SNW05.pdf'
+  doi: '#'
+  citation: 'Sherriff, M., Williams, L., and Vouk, M. "Using In-Process Metrics to Predict Defect Density in Haskell Programs." Fast Abstract. The 15th International Symposium on Software Reliability Engineering, St-Malo, France, Nov 2-5, 2004.'
+
+- title: 'Unix Tutorials to Move Students from PC/Windows to Unix'
+  authors: 'Burg, J., and Sherriff, M.'
+  date: 2002-06-30
+  venue: 'ED-MEDIA 2002 Conference'
+  issue: 'Denver, Colorado, June 30, 2002'
+  venueshort: 'ED-MEDIA'
+  paperurl: '#'
+  doi: '#'
+  citation: 'Burg, J., and Sherriff, M. "Unix Tutorials to Move Students from PC/Windows to Unix." ED-MEDIA 2002 Conference, June 30, 2002.'

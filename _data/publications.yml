@@ -128,112 +128,42 @@
   doi: 'https://doi.org/10.1109/ICST.2008.25'
   citation: 'Sherriff, M. and Williams, L. "Empirical Software Change Impact Analysis using Singular Value Decomposition." International Conference on Software Testing, Verification, and Validation, Lillehammer, Norway, April 9-11, 2008.'
 
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M., Lake, J. M., and Williams, L. "Prioritization of Regression Tests using Singular Value Decomposition with Empirical Change Records." The 18th IEEE International Symposium on Software Reliability Engineering, Trollhattan, Sweden, Nov 5-9, 2007. [PDF ]
+- title: "Prioritization of Regression Tests using Singular Value Decomposition with Empirical Change Records"
+  authors: 'Sherriff, M., Lake, J. M., and Williams, L.'
+  date: 2007-10-22
+  venue: 'The 18th IEEE International Symposium on Software Reliability Engineering'
+  issue: 'Trollhattan, Sweden, Nov 5-9, 2007'
+  venueshort: 'ISSRE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/ISSRE07-Sherriff.pdf'
+  doi: '#'
+  citation: 'Sherriff, M., Lake, J. M., and Williams, L. "Prioritization of Regression Tests using Singular Value Decomposition with Empirical Change Records." The 18th IEEE International Symposium on Software Reliability Engineering, Trollhattan, Sweden, Nov 5-9, 2007.'
 
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
+- title: 'Identifying Fault-Prone Files Using Static Analysis Alerts Through Singular Value Decomposition'
+  authors: 'Sherriff, M., Heckman, S. S., Lake, J. M., and Williams, L.'
+  date: 2007-10-22
+  venue: '17th Annual International Conference of the IBM Center for Advanced Studies'
+  issue: 'Richmond Hill, Ontario, Oct 22-25, 2007'
+  venueshort: 'CASCON'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/CASCON-Sherriff.pdf'
+  doi: 'https://doi.org/10.1145/1321211.1321247'
   citation: Sherriff, M., Heckman, S. S., Lake, J. M., and Williams, L. "Identifying Fault-Prone Files Using Static Analysis Alerts Through Singular Value Decomposition." 17th Annual International Conference of the IBM Center for Advanced Studies, Richmond Hill, Ontario, Oct 22-25, 2007. [PDF ]
 
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M., Heckman, S. S., Lake, J. M., and Williams, L. "Using Groupings of Static Analysis Alerts to Identify Files Likely to Contain Field Failures." Short Paper. The 6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, Dubrovnik, Croatia, Sept 3-7, 2007. [PDF ]
+- title: 'Using Groupings of Static Analysis Alerts to Identify Files Likely to Contain Field Failures'
+  authors: 'Sherriff, M., Heckman, S. S., Lake, J. M., and Williams, L.'
+  date: 2007-10-02
+  venue: 'he 6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering'
+  issue: 'Dubrovnik, Croatia, Sept 3-7, 2007'
+  venueshort: 'FSE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/FSE07-Sherriff.pdf'
+  doi: 'https://doi.org/10.1145/1287624.1287711'
+  citation: 'Sherriff, M., Heckman, S. S., Lake, J. M., and Williams, L. "Using Groupings of Static Analysis Alerts to Identify Files Likely to Contain Field Failures." Short Paper. The 6th joint meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering, Dubrovnik, Croatia, Sept 3-7, 2007.'
 
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M. and Williams, L. "DevCOP: A Software Certificate Management System for Eclipse." 17th Annual International Symposium on Software Reliability Engineering, Raleigh, North Carolina, Nov 6-10, 2006. [PDF ]
-
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M. and Williams, L. "A Method for Verification and Validation Certificate Management in Eclipse." Workshop on Software Certificate Management, Long Beach, California, Nov 8, 2005. [PDF ]
-
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M. and Williams, L. "Certification of Code During Development to Provide an Estimate of Defect Density." Fast Abstract. The 16th International Symposium on Software Reliability Engineering, Chicago, Illinois, Nov 8-11, 2005. [PDF ]
-
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M. "Using Verification and Validation Certificates to Estimate Software Defect Density." Doctoral Symposium. Symposium on the Foundations of Software Engineering, Lisbon, Portugal, Sept 6, 2005. [PDF ]
-
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M., Nagappan, N., Williams, L., and Vouk, M. "Early Estimation of Defect Density Using an In-Process Haskell Metrics Model." The First International Workshop on Advances In Model-Based Software Testing, co-located with the International Conference on Software Engineering, St. Louis, MO, May 15-16, 2005. [PDF ]
-
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M. and Williams, L. "Tool Support for Estimating Software Reliability in Haskell Programs." Student Paper. The 15th International Symposium on Software Reliability Engineering, St-Malo, France, Nov 2-5, 2004. [PDF ]
-
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Sherriff, M., Williams, L., and Vouk, M. "Using In-Process Metrics to Predict Defect Density in Haskell Programs." Fast Abstract. The 15th International Symposium on Software Reliability Engineering, St-Malo, France, Nov 2-5, 2004. [PDF ]
-
-- title: 
-  authors: 
-  date: 
-  venue: 
-  issue: 
-  venueshort: 
-  paperurl: 
-  doi: 
-  citation: Burg, J., and Sherriff, M. "Unix Tutorials to Move Students from PC/Windows to Unix." ED-MEDIA 2002 Conference, June 30, 2002.
+- title: 'DevCOP: A Software Certificate Management System for Eclipse'
+  authors: 'Sherriff, M. and Williams, L.'
+  date: 2006-11-06
+  venue: '17th Annual International Symposium on Software Reliability Engineering'
+  issue: 'Raleigh, North Carolina, Nov 6-10, 2006'
+  venueshort: 'ISSRE'
+  paperurl: 'http://www.cs.virginia.edu/~sherriff/papers/ISSRE06-Sherriff.pdf'
+  doi: 'https://doi.org/10.1109/ISSRE.2006.22'
+  citation: 'Sherriff, M. and Williams, L. "DevCOP: A Software Certificate Management System for Eclipse." 17th Annual International Symposium on Software Reliability Engineering, Raleigh, North Carolina, Nov 6-10, 2006.'
