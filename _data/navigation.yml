@@ -8,6 +8,9 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Advising"
+    url: /advising/
     
   - title: "CV"
     url: /files/Sherriff-CV.pdf
