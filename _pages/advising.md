@@ -17,5 +17,5 @@ I am interested in working with students on projects involving CS education and 
 
 ## Graduate Research
 
-I do not currently advising graduate student research.  Potential graduate students should direct questions to the department.  Further, graduate students in our department go through a rotation through various faculty members.  And I am not someone that can assist with this.
+I currently do not advise or sponsor graduate students or graduate research.  If you are a potential graduate student, please direct your questions to the CS department.  
 
