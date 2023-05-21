@@ -1,6 +1,6 @@
 ---
 title: "CS 3240 Coursepack"
-excerpt: "Online Software Engineering Textbook by Will McBurney and Mark Sherriff<br/><img src='/images/cs3240logo.jpg'>"
+excerpt: "Online Software Engineering Textbook by Will McBurney and Mark Sherriff<br/><img src='/images/cs3240logo.png'>"
 collection: portfolio
 ---
 
