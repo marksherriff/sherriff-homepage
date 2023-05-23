@@ -1,3 +1,13 @@
+# Homepage for Prof. Mark Sherriff (University of Virginia)
+
+The Jekyll theme for this website is forked from the information listed below.  I have made a few changes specifically for my build:
+
+- Added .yml files for publications to make a more CV-looking publication page as opposed to the original more "long information" page for each paper (because I didn't want to write all that!)
+- Changed some colors to make it more UVA-ish
+- Added a place for teaching awards
+- Created an Advising page with links
+
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
