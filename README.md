@@ -7,6 +7,9 @@ The Jekyll theme for this website is forked from the information listed below.  
 - Added a place for teaching awards
 - Created an Advising page with links
 
+----------------------------------------------
+
+# Template Information
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
