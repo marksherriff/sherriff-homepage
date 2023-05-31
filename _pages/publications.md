@@ -25,7 +25,7 @@ table, th, td {
 {% for paper in site.data.publications %}
   <tr><td width="120" valign="top">{{ paper.venueshort }}</td>
   <td><strong>{{ paper.title }}</strong>. {{ paper.authors }} <em>{{ paper.venue }}. {{ paper.issue }}</em><br>
-  <a href="{{ paper.paperul }}">PDF</a> | <a href="{{ paper.doi }}">DOI</a></td></tr>
+  <a href="{{ paper.paperurl }}">PDF</a> | <a href="{{ paper.doi }}">DOI</a></td></tr>
 {% endfor %}
 
 </table>
@@ -36,7 +36,7 @@ table, th, td {
 {% for paper in site.data.otherpublications %}
   <tr><td width="120" valign="top">{{ paper.venueshort }}</td>
   <td><strong>{{ paper.title }}</strong>. {{ paper.authors }} <em>{{ paper.venue }}. {{ paper.issue }}</em><br>
-  <a href="{{ paper.paperul }}">PDF</a> | <a href="{{ paper.doi }}">DOI</a></td></tr>
+  <a href="{{ paper.paperurl }}">PDF</a> | <a href="{{ paper.doi }}">DOI</a></td></tr>
 {% endfor %}
 
 </table>
