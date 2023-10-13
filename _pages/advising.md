@@ -13,7 +13,7 @@ author_profile: true
 
 ## Undergraduate Research
 
-I am interested in working with students on projects involving CS education and gamification.  Reach out to discuss options!  I hope to have some more options posted before the fall 2023 semester.
+I am interested in working with students on projects involving CS education and gamification.  Reach out to discuss options!  I hope to have some more options posted before the spring 2024 semester.
 
 ## Graduate Research
 
