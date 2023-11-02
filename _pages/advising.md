@@ -17,5 +17,5 @@ I am interested in working with students on projects involving CS education and 
 
 ## Graduate Research
 
-I currently do not advise or sponsor graduate students or graduate research.  If you are a potential graduate student, please direct your questions to the CS department.  
+I currently do not advise or sponsor graduate students or graduate research.  If you are a potential graduate student, please direct your questions to the CS department.    
 
