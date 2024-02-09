@@ -274,7 +274,7 @@ DEPENDENCIES
   eventmachine (= 1.2.7)!
   github-pages
   hawkins
-  jekyll
+  jekyll (= 3.9.3)
   jekyll-feed
   jekyll-sitemap
   tzinfo-data
