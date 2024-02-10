@@ -7,9 +7,9 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+# Happy Jekylling!, group: :jekyll_plugins
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "=228"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -17,7 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll", "=3.9.3"
 
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
+# gem 'eventmachine', '1.2.7', git: 'https://github.com/eventmachine/eventmachine.git', tag: 'v1.2.7'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 # If you have any plugins, put them here!
