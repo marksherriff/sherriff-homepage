@@ -1,0 +1,65 @@
+
+<html>
+
+    <head>
+<style>
+    body {
+        font-family: arial, sans-serif;
+        text-align: center;
+        background: #000000;
+            color: #ffffff;
+                overflow: hidden;
+    }
+
+    h1 {
+        font-size: 190px;
+            text-align: center;
+                font-weight: normal;
+                    margin-bottom: 0px;
+    }
+
+    .fulltype {
+        border: 0px;
+        padding: 10px;
+            font-size: 40px;
+                color: #fff;
+                background: #000;
+                    width: 100%;
+                        height: 100%;
+                            outline: none;
+    }
+
+</style>
+    </head>
+    <body>
+
+    <h1 id='clock'></h1>
+    <script>
+        var span = document.getElementById('clock');
+
+        function time() {
+            var d = new Date();
+            var m = d.getMinutes();
+            if (m < 10)
+                m = "0" + m;
+            var h = d.getHours();
+            var a = "am";
+            if (h == 0)
+                h = 12;
+            else if (h == 12)
+                a = "pm";
+            else if (h > 12) {
+                h = h % 12;
+                a = "pm";
+            }
+            span.textContent = h + ":" + m + " " + a;
+        }
+
+        setInterval(time, 1000);
+    </script>
+
+    <textarea class="fulltype"></textarea>
+
+
+    </body>
+</html>
