@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Professor of Computer Science (Academic General Faculty) in the [Department of Computer Science](http://www.cs.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), having joined the department in 2007. I currently serve as Associate Department Chair and Director of the [Bachelor of Science in Computer Science](https://engineering.virginia.edu/departments/computer-science/cs-undergraduate-programs) degree program in the [School of Engineering and Applied Science](https://engineering.virginia.edu/).  My teaching interests include software engineering, video game design, and mobile app development.  My research interests are in CS education, the scholarship of teaching and learning (SoTL), and gamification.
+I am a Professor of Computer Science (Academic General Faculty) in the [Department of Computer Science](http://www.cs.virginia.edu) at the [University of Virginia](https://www.virginia.edu/), having joined the department in 2007. I am currently the Associate Department Chair for Undergraduate Programs and Director of the [Bachelor of Science in Computer Science](https://engineering.virginia.edu/departments/computer-science/cs-undergraduate-programs) degree program in the [School of Engineering and Applied Science](https://engineering.virginia.edu/).  I also serve as Secretary on the [ACM SIGCSE Board](https://sigcse.org/) (2025-2028).  My teaching interests include software engineering, video game design, and mobile app development.  My research interests are in CS education, the scholarship of teaching and learning (SoTL), and gamification.
 
 ## Contacting Me
 
@@ -15,7 +15,7 @@ The best way to reach me is via email - [sherriff@virginia.edu](mailto:sherriff@
 
 __Physical Address:__ 85 Engineer's Way, Box 400740, Charlottesville, VA 22904     
 __Office:__ Rice Hall 400     
-__Office Hours (Summer 2025):__ By Appointment Only   
+__Office Hours (Fall 2025):__ TBD   
 
 ## Questions about CS at UVA?
 

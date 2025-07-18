@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/eventmachine/eventmachine.git
+  revision: 9cb13a8a62363df5ebcc414169a3deb2c1608528
+  tag: v1.2.7
+  specs:
+    eventmachine (1.2.7)
+    eventmachine (1.2.7-x64-mingw32)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -23,8 +31,6 @@ GEM
       http_parser.rb (~> 0)
     ethon (0.16.0)
       ffi (>= 1.15.0)
-    eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     execjs (2.8.1)
     faraday (2.7.4)
       faraday-net_http (>= 2.0, < 3.1)
@@ -266,6 +272,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
+  eventmachine (= 1.2.7)!
   github-pages (= 228)
   hawkins
   jekyll (= 3.9.3)
@@ -275,4 +282,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.3.19
+   2.4.20
