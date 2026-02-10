@@ -1,8 +1,8 @@
 ---
-title: "CS 2501: Game Design Reading Group"
+title: "CS 2993: Game Design Reading Group"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/cs2501-gdrg
+permalink: /teaching/cs2993-gdrg
 venue: "UVA Computer Science"
 date: 2026-01-01
 location: "Charlottesville, VA"
