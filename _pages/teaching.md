@@ -12,6 +12,8 @@ author_profile: true
 
 ## Teaching Awards
 
+- The Joseph L. Vaughan Professor of Humanities Endowed Chair (SEAS Professorship for Student Education and Development 2026-2028)
+- 2026 UVA ACM Professor of the Year
 - 2021 UVA ACM Professor of the Year
 - 2016 IEEE Computer Society Mary Kenneth Keller Computer Science &amp; Engineering Undergraduate Teaching Award 
   - Citation: "For outstanding contributions to undergraduate computer science education through innovative teaching and commitment to increasing enrollment and diversity in computer science programs."
