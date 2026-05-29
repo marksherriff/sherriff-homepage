@@ -14,7 +14,7 @@ ACM Senior Member: 2019
 
 ## Concise Statement of Professional Achievement
 
-"For national leadership and service in computing education through curricular innovation and mentoring educators."
+"For national leadership in computing education through mentoring, curricular innovation, and professional service."
 
 ## Current CV
 
