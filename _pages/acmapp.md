@@ -22,20 +22,20 @@ ACM Senior Member: 2019
 
 ## Educational Background
 
+__Doctor of Philosophy, Computer Science (2007)__    
 North Carolina State University, Raleigh, NC    
-Doctor of Philosophy, Computer Science 2007    
-Advisor: Dr. Laurie Williams    
-Topic: Analyzing Software Artifacts through Singular Value Decomposition to Guide Development Decisions
+_Advisor:_ Dr. Laurie Williams    
+_Topic:_ Analyzing Software Artifacts through Singular Value Decomposition to Guide Development Decisions
 
+__Master of Science, Computer Science (2004)__    
 North Carolina State University, Raleigh, NC    
-Master of Science, Computer Science 2004    
-Advisor: Dr. Laurie Williams    
-Topic: Estimating Software Reliability in a Haskell Programming Environment
+_Advisor:_ Dr. Laurie Williams    
+_Topic:_ Estimating Software Reliability in a Haskell Programming Environment
 
+__Bachelor of Science, Computer Science (2002 with Honors, Cum Laude)__    
 Wake Forest University, Winston-Salem, NC    
-Bachelor of Science, Computer Science with Honors, Cum Laude 2002    
-Advisor: Dr. Jennifer Burg    
-Honors Topic: Unix Tutorials to Move Students from PC/Windows to Unix
+_Advisor:_ Dr. Jennifer Burg    
+_Honors Topic:_ Unix Tutorials to Move Students from PC/Windows to Unix
 
 ## Candidate's Most Significant Professional Accomplishments
 
