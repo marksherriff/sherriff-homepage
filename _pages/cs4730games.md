@@ -55,3 +55,13 @@ In short, **you should be able to complete both required challenges for anywhere
 | **Contemporary** | [Undertale](https://store.steampowered.com/app/391540/Undertale/) | Mechanics as Theme | Complete Neutral Route | Steam, Switch, PS, Xbox |
 
 __* NSO: Nintendo Switch Online__
+
+## Game Design Challenge Milestone Stickers
+
+Every challenge milestone has a custom sticker associated with it. To complete a challenge, you'll meet with me briefly during office hours or another designated time to talk about the game and the milestone you reached. This isn't meant to be an oral exam—just a short conversation about your experience, what you noticed, and what you think the game was trying to accomplish from a design perspective.
+
+Once you've completed the challenge discussion, you'll earn that game's custom sticker.
+
+What you do with your stickers is entirely up to you. You'll receive an achievement page that can be added to your course notebook to collect them, but you're also welcome to decorate your notebook cover, laptop, handheld case, water bottle, or anywhere else you'd like. 
+
+The stickers aren't rewards for "beating" games—they're reminders of experiences. By the end of the semester, they'll represent a personal library of games you've explored and the design ideas you've encountered along the way.
