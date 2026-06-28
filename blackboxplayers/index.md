@@ -32,6 +32,8 @@ layout: splash
 }
 </style>
 
+<a href="/blackboxplayers/mobile.html">Mobile Version</a>
+
 <div class="recording-block">
   <h2>Recording 1 - "Ahoy there, you lubbers!"</h2>
 

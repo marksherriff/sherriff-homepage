@@ -4,52 +4,151 @@
     </head>
     <body>
 
+<style>
+.soundboard {
+    max-width: 700px;
+    margin: 0 auto;
+}
 
+.sound-btn {
+    display: block;
+    width: 100%;
+    margin: 0.75rem 0;
+    padding: 1rem;
+    text-align: left;
+    font-size: 1.05rem;
+    border: 2px solid #bbb;
+    border-radius: 10px;
+    background: #f7f7f7;
+    cursor: pointer;
+    transition: background 0.15s;
+}
 
+.sound-btn:hover {
+    background: #ececec;
+}
 
+.sound-btn.playing {
+    background: #d8f2d8;
+    border-color: #2f8f2f;
+}
 
-<div class="compact-recordings">
-  <div class="compact-recording">
-    <div class="compact-recording-title">Recording 1 - "Ahoy there, you lubbers!"</div>
-    <audio controls preload="none">
-      <source src="/blackboxplayers/recording1b.mp3" type="audio/mpeg">
-    </audio>
-  </div>
+.sound-btn strong {
+    display: block;
+    font-size: 1.05rem;
+}
 
-  <div class="compact-recording">
-    <div class="compact-recording-title">Recording 2 - "Cut him free!"</div>
-    <audio controls preload="none">
-      <source src="/blackboxplayers/recording2b.mp3" type="audio/mpeg">
-    </audio>
-  </div>
+.sound-btn span {
+    display: block;
+    margin-top: .35rem;
+    color: #666;
+    font-size: .9rem;
+    font-style: italic;
+}
 
-  <div class="compact-recording">
-    <div class="compact-recording-title">Recording 3 - "I hear you!  Cut there..."</div>
-    <audio controls preload="none">
-      <source src="/blackboxplayers/recording3b.mp3" type="audio/mpeg">
-    </audio>
-  </div>
+.stop-btn {
+    width: 100%;
+    padding: .9rem;
+    margin: 1rem 0 2rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: none;
+    background: #b33;
+    color: white;
+    cursor: pointer;
+}
 
-  <div class="compact-recording">
-    <div class="compact-recording-title">Recording 4 - "I am James Hook!"</div>
-    <audio controls preload="none">
-      <source src="/blackboxplayers/recording4b.mp3" type="audio/mpeg">
-    </audio>
-  </div>
+.stop-btn:hover {
+    background: #922;
+}
 
-  <div class="compact-recording">
-    <div class="compact-recording-title">Recording 5 - "A Codfish!..."</div>
-    <audio controls preload="none">
-      <source src="/blackboxplayers/recording5b.mp3" type="audio/mpeg">
-    </audio>
-  </div>
+audio {
+    display: none;
+}
+</style>
 
-  <div class="compact-recording">
-    <div class="compact-recording-title">Recording 6 - Sound Cue Recording..."</div>
-    <audio controls preload="none">
-      <source src="/blackboxplayers/recording6b.mp3" type="audio/mpeg">
-    </audio>
-  </div>
+<div class="soundboard">
+
+<button class="stop-btn" onclick="stopAll()">■ Stop All</button>
+
+<button id="btn1" class="sound-btn" onclick="playRecording(1)">
+<strong>Recording 1</strong>
+<span>"Ahoy there, you lubbers!"</span>
+</button>
+<audio id="audio1">
+    <source src="/blackboxplayers/recording1b.mp3" type="audio/mpeg">
+</audio>
+
+<button id="btn2" class="sound-btn" onclick="playRecording(2)">
+<strong>Recording 2</strong>
+<span>"Cut him free!"</span>
+</button>
+<audio id="audio2">
+    <source src="/blackboxplayers/recording2b.mp3" type="audio/mpeg">
+</audio>
+
+<button id="btn3" class="sound-btn" onclick="playRecording(3)">
+<strong>Recording 3</strong>
+<span>"I hear you!  Cut there..."</span>
+</button>
+<audio id="audio3">
+    <source src="/blackboxplayers/recording3b.mp3" type="audio/mpeg">
+</audio>
+
+<button id="btn4" class="sound-btn" onclick="playRecording(4)">
+<strong>Recording 4</strong>
+<span>"I am James Hook!"</span>
+</button>
+<audio id="audio4">
+    <source src="/blackboxplayers/recording4b.mp3" type="audio/mpeg">
+</audio>
+
+<button id="btn5" class="sound-btn" onclick="playRecording(5)">
+<strong>Recording 5</strong>
+<span>"A Codfish!..."</span>
+</button>
+<audio id="audio5">
+    <source src="/blackboxplayers/recording5b.mp3" type="audio/mpeg">
+</audio>
+
+<button id="btn6" class="sound-btn" onclick="playRecording(6)">
+<strong>Recording 6</strong>
+<span>"Sound Cue Recording..."</span>
+</button>
+<audio id="audio6">
+    <source src="/blackboxplayers/recording6b.mp3" type="audio/mpeg">
+</audio>
+
 </div>
+
+<script>
+function stopAll() {
+    document.querySelectorAll("audio").forEach(audio => {
+        audio.pause();
+        audio.currentTime = 0;
+    });
+
+    document.querySelectorAll(".sound-btn").forEach(btn => {
+        btn.classList.remove("playing");
+    });
+}
+
+function playRecording(num) {
+
+    stopAll();
+
+    const audio = document.getElementById("audio" + num);
+    const button = document.getElementById("btn" + num);
+
+    button.classList.add("playing");
+    audio.play();
+
+    audio.onended = function () {
+        button.classList.remove("playing");
+    };
+}
+</script>
+
+
     </body>
 </html>
