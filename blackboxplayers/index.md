@@ -2,6 +2,7 @@
 title: "PPGW Audio"
 sitemap: false
 permalink: /blackboxplayers/
+layout: splash
 ---
 
 <style>
