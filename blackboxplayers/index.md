@@ -33,7 +33,7 @@ layout: splash
 </style>
 
 <div class="recording-block">
-  <h2>Recording 1</h2>
+  <h2>Recording 1 - "Ahoy there, you lubbers!"</h2>
 
   <div class="version">
     <strong>Version A</strong><br>
@@ -57,7 +57,7 @@ layout: splash
 </div>
 
 <div class="recording-block">
-  <h2>Recording 2</h2>
+  <h2>Recording 2 - "Cut him free!"</h2>
 
   <div class="version">
     <strong>Version A</strong><br>
@@ -81,7 +81,7 @@ layout: splash
 </div>
 
 <div class="recording-block">
-  <h2>Recording 3</h2>
+  <h2>Recording 3 - "I hear you!  Cut there..."</h2>
 
   <div class="version">
     <strong>Version A</strong><br>
@@ -105,7 +105,7 @@ layout: splash
 </div>
 
 <div class="recording-block">
-  <h2>Recording 4</h2>
+  <h2>Recording 4 - "I am James Hook!"</h2>
 
   <div class="version">
     <strong>Version A</strong><br>
@@ -129,7 +129,7 @@ layout: splash
 </div>
 
 <div class="recording-block">
-  <h2>Recording 5</h2>
+  <h2>Recording 5 - "A Codfish!..."</h2>
 
   <div class="version">
     <strong>Version A</strong><br>
@@ -153,7 +153,7 @@ layout: splash
 </div>
 
 <div class="recording-block">
-  <h2>Recording 6</h2>
+  <h2>Recording 6 - Sound Cue Recording..."</h2>
 
   <div class="version">
     <strong>Version A</strong><br>
