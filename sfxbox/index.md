@@ -7,7 +7,7 @@ layout: splash
 
 # SFXbox User Guide v1.0
 
-The **SFXbox** is a small sound-effects system for Black Box Players productions. It plays sound effects through the theater sound board using the Stream Deck, Logitech presenter remote, numeric keypad, or backup keyboard.
+The **SFXbox** is a small sound-effects system for Black Box Players productions. It plays sound effects through the theater sound board or a supplemental speaker using the Stream Deck, Logitech presenter remote, numeric keypad, or backup keyboard.
 
 This guide is written for show operators and volunteers. No technical knowledge is required for normal use.
 
@@ -53,11 +53,11 @@ When the SFXbox has power, the green status light should be on.
 
 ## 2. Set Up Before the Show
 
-1. Place the SFXbox near the sound board or wherever the sound operator will use it.
+1. Place the SFXbox near the sound board or supplemental speaker.
 
-2. Connect the **USB audio adapter** to the SFXbox.
+2. Ensure all USB adapters are connected to the SFXbox.
 
-3. Connect the audio output to the sound board.
+3. Connect the **audio output red cable** to the sound board or supplemental speaker.
 
    Use the audio adapter and cable shown here:
 
@@ -73,13 +73,13 @@ When the SFXbox has power, the green status light should be on.
 
    ![Stream Deck](/sfxbox/images/streamdeck.png)
 
-5. Plug in the Logitech receiver for the presenter remote, if it is not already connected.
+5. Plug in the Logitech receiver for the presenter remote, if it is not already connected.  Power on as needed.
 
    The Logitech presenter remote looks like this:
 
    ![Logitech presenter remote](/sfxbox/images/clicker.png)
 
-6. Keep the wireless numeric keypad nearby as a backup.
+6. Keep the wireless numeric keypad nearby as a backup.  Power on as needed.
 
    ![Wireless numeric keypad](/sfxbox/images/numpad.png)
 
@@ -91,7 +91,7 @@ When the SFXbox has power, the green status light should be on.
 
 9. Wait for the SFXbox to start. This may take a short time.
 
-10. When startup is complete, the system should play the ready sound.
+10. When startup is complete, the system should play the ready sound - a long beep.
 
 ---
 
@@ -190,12 +190,11 @@ Use it if the Stream Deck or presenter remote is unavailable.
 After the show:
 
 1. Stop using the SFXbox for any active sounds or music.
-2. Turn off or unplug the Stream Deck if needed.
-3. Unplug power from the SFXbox.
-4. Disconnect the audio cable from the sound board.
-5. Coil the cables neatly.
-6. Store the Logitech presenter remote, numeric keypad, and keyboard with the SFXbox.
-7. Return all parts to the designated storage location.
+2. Unplug power from the SFXbox.
+3. Disconnect the audio cable from the sound board.
+4. Coil the cables neatly.
+5. Store the Logitech presenter remote, numeric keypad, and keyboard with the SFXbox.
+6. Return all parts to the designated storage location.
 
 Make sure the following items are stored together:
 
@@ -241,7 +240,7 @@ This should only be needed for troubleshooting or software updates.
 
 ## 7. Updating the Software with Git Pull
 
-Only do this if Mark or the technical director asks you to update the SFXbox software.
+Only do this if Mark asks you to update the SFXbox software.
 
 You will need:
 
