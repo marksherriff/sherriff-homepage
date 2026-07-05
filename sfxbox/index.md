@@ -32,6 +32,8 @@ The SFXbox system includes the following pieces:
 
 ![Stream Deck, remote, numpad, and cables](/sfxbox/images/usb-streamdeck-sound-clicker-numpad.png)
 
+**NOTE**: Spare batteries, power cables, and other parts can be found in the front pocket of the laptop case.
+
 ### SFXbox ports and connections
 
 The SFXbox has several ports. For normal show use, the important ones are:
@@ -69,7 +71,7 @@ When the SFXbox has power, the green status light should be on.
    SFXbox → USB audio adapter → audio cable → sound board input
    ```
 
-4. Plug in the Stream Deck.
+4. Plug in the Stream Deck, if it is not already connected.
 
    ![Stream Deck](/sfxbox/images/streamdeck.png)
 
@@ -83,7 +85,7 @@ When the SFXbox has power, the green status light should be on.
 
    ![Wireless numeric keypad](/sfxbox/images/numpad.png)
 
-7. Keep the wireless keyboard nearby as a backup/setup device.
+7. Keep the wireless keyboard nearby as a backup/setup device.  To use this device, the USB adapter (found on the back of the keyboard) would need to be swapped out with one of the other USB devices.
 
    ![Wireless keyboard](/sfxbox/images/sparekeyboard-connectoronback.png)
 
@@ -108,7 +110,7 @@ If you do **not** hear the ready sound:
 - Check that the SFXbox has power.
 - Check that the green status light is on.
 - Check that the audio cable is connected to the sound board.
-- Check that the sound board channel is on and turned up.
+- Check that the sound board channel or supplemental speaker is on and turned up.
 
 ### Test 2: Stream Deck
 
@@ -120,7 +122,7 @@ You should hear the matching sound effect.
 
 ### Test 3: Logitech presenter remote
 
-Press one of the buttons on the Logitech remote.
+Make sure the remote is powered on (there is a switch on the side and it should be green). Press one of the buttons on the Logitech remote (other than the laser pointer button).
 
 ![Logitech presenter remote](/sfxbox/images/clicker.png)
 
@@ -128,11 +130,11 @@ You should hear the assigned sound effect.
 
 ### Test 4: Backup numeric keypad
 
-Press a mapped key on the wireless numeric keypad.
+Make sure the keypad is powered on. Press a mapped key on the wireless numeric keypad.
 
 ![Wireless numeric keypad](/sfxbox/images/numpad.png)
 
-You should hear the assigned sound effect.
+You should hear the assigned sound effect.  Power down if not expected to use during the show.
 
 ### If testing fails
 
@@ -149,7 +151,7 @@ If one device does not work but another does, use the working backup device for 
 
 ## 4. Usage During the Show
 
-During the show, use the SFXbox only as needed for sound effects.
+During the show, use the SFXbox as needed for sound effects.
 
 ### Stream Deck
 
@@ -173,7 +175,7 @@ The numeric keypad is a backup control device.
 
 ![Wireless numeric keypad](/sfxbox/images/numpad.png)
 
-Use it if the Stream Deck or presenter remote is unavailable.
+Use it if the Stream Deck or presenter remote is unavailable.  The key mappings can be found on the hand out found in the front pocket of the laptop case.
 
 ### During-show reminders
 
@@ -193,8 +195,8 @@ After the show:
 2. Unplug power from the SFXbox.
 3. Disconnect the audio cable from the sound board.
 4. Coil the cables neatly.
-5. Store the Logitech presenter remote, numeric keypad, and keyboard with the SFXbox.
-6. Return all parts to the designated storage location.
+5. Store the Logitech presenter remote, numeric keypad, and keyboard with the SFXbox in the laptop case.
+6. Return all parts to the designated storage location in the laptop case.
 
 Make sure the following items are stored together:
 
