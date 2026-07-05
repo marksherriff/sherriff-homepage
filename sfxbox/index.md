@@ -1,5 +1,5 @@
 ---
-title: "SFXBox Manual v1.0"
+title: "SFXbox User Guide v1.0"
 sitemap: false
 permalink: /sfxbox/
 layout: splash
