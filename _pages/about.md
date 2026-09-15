@@ -15,7 +15,7 @@ The best way to reach me is via email - [sherriff@virginia.edu](mailto:sherriff@
 
 __Physical Address:__ 85 Engineer's Way, Box 400740, Charlottesville, VA 22904     
 __Office:__ Rice Hall 400     
-__Office Hours (Summer 2026):__ By appointment only
+__Office Hours (Fall 2026):__ Office Hours: Wednesdays 2:00-3:00 PM and Thursdays 9:30-11:00 AM
 
 ## Questions about CS at UVA?
 
